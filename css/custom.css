@@ -1,0 +1,40 @@
+body{
+	font-family: arial;
+	text-align: center;
+}
+.FileArea{
+	margin: 0px auto;
+	margin-top: 5%;
+	width: 525px;
+}
+.FileBtn {
+    border: 2px dashed #f79667;
+    padding: 100px 25px !important;
+    color: #f79667;
+    text-align: center;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: 0px auto;
+    width: 525px;
+}	
+.hide{
+	display: none;
+}
+#mediaErrorDiv{
+	color: #ed3c3c;
+    font-size: 13px;
+}
+.img_box{
+	float: left;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	background-color: #dadada;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+.img_box img{
+	max-width: 90px;
+	max-height: 90px;
+}
